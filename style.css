@@ -1,0 +1,33 @@
+#form{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-right:140px;
+    padding-left:  240px;
+    border: 1px solid black;
+    background-color: azure;
+    margin-top: 40px;
+}
+.para{
+    color: darkgreen;
+
+}
+section div p{
+    color: crimson;
+}
+section p{
+    font-size: 50px;
+}
+.paras{
+    display: flex;
+    justify-content: space-around;
+}
+.para-2{
+    color: aqua;
+
+}
+.para-3{
+    color: blue;
+}
+.para-4{
+    color: green;
+}
